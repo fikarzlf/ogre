@@ -1,0 +1,6 @@
+<map id="Ogre::GLHardwareIndexBuffer" name="Ogre::GLHardwareIndexBuffer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,229,221,256"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_hardware_index_buffer.html" title="Specialisation of HardwareBuffer for vertex index buffers, still abstract." alt="" coords="14,155,213,181"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_hardware_buffer.html" title="Abstract class defining common features of hardware buffers." alt="" coords="32,80,195,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="67,5,160,32"/>
+</map>

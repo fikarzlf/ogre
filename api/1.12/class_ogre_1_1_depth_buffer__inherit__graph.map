@@ -1,0 +1,11 @@
+<map id="Ogre::DepthBuffer" name="Ogre::DepthBuffer">
+<area shape="rect" id="node1" title="An abstract class that contains a depth/stencil buffer." alt="" coords="176,81,315,108"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_d3_d11_depth_buffer.html" title=" " alt="" coords="379,5,561,32"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_d3_d9_depth_buffer.html" title=" " alt="" coords="383,56,557,83"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_g_l_depth_buffer_common.html" title="OpenGL supports 3 different methods: FBO, pbuffer &amp; Copy." alt="" coords="363,107,577,133"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_metal_depth_buffer.html" title=" " alt="" coords="382,157,558,184"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,81,128,108"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_g_l3_plus_depth_buffer.html" title=" " alt="" coords="625,56,816,83"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_g_l_depth_buffer.html" title=" " alt="" coords="643,107,799,133"/>
+<area shape="rect" id="node8" href="$class_ogre_1_1_g_l_e_s2_depth_buffer.html" title=" " alt="" coords="631,157,811,184"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Ogre::TerrainQuadTreeNode" name="Ogre::TerrainQuadTreeNode">
+<area shape="rect" id="node1" title="A node in a quad tree used to store a patch of terrain." alt="" coords="5,80,205,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="56,5,155,32"/>
+</map>

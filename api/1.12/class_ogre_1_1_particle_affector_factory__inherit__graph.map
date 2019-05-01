@@ -1,0 +1,13 @@
+<map id="Ogre::ParticleAffectorFactory" name="Ogre::ParticleAffectorFactory">
+<area shape="rect" id="node1" title="Abstract class defining the interface to be implemented by creators of ParticleAffector subclasses." alt="" coords="124,274,331,301"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_colour_fader_affector_factory.html" title="Factory class for ColourFaderAffector." alt="" coords="391,5,581,47"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_colour_fader_affector_factory2.html" title="Factory class for ColourFaderAffector." alt="" coords="391,71,581,112"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_colour_image_affector_factory.html" title="Factory class for ColourImageAffector." alt="" coords="389,136,583,177"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_colour_interpolator_affector_factory.html" title="Factory class for ColourInterpolatorAffector." alt="" coords="397,201,575,243"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_deflector_plane_affector_factory.html" title="Factory class for DeflectorPlaneAffector." alt="" coords="383,267,589,308"/>
+<area shape="rect" id="node8" href="$class_ogre_1_1_direction_randomiser_affector_factory.html" title="Factory class for DirectionRandomiserAffector." alt="" coords="387,332,585,373"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_linear_force_affector_factory.html" title="Factory class for LinearForceAffector." alt="" coords="393,397,579,439"/>
+<area shape="rect" id="node10" href="$class_ogre_1_1_rotation_affector_factory.html" title="Factory class for RotationAffector." alt="" coords="379,463,593,490"/>
+<area shape="rect" id="node11" href="$class_ogre_1_1_scale_affector_factory.html" title="Factory class for ScaleAffector." alt="" coords="389,514,583,541"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,274,76,301"/>
+</map>

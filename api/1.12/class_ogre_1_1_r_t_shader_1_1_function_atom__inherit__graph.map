@@ -1,0 +1,8 @@
+<map id="Ogre::RTShader::FunctionAtom" name="Ogre::RTShader::FunctionAtom">
+<area shape="rect" id="node1" title="A class that represents an atomic code section of shader based program function." alt="" coords="217,85,437,112"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_r_t_shader_1_1_assignment_atom.html" title="shorthand for &quot;lhs = rhs;&quot; insted of using FFP_Assign(rhs, lhs)" alt="" coords="495,5,738,32"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_r_t_shader_1_1_binary_op_atom.html" title="shorthand for &quot;dst = a OP b;&quot;" alt="" coords="504,56,729,83"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_r_t_shader_1_1_function_invocation.html" title="A class that represents function invocation code from shader based program function." alt="" coords="524,107,709,149"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_r_t_shader_1_1_sample_texture_atom.html" title="shorthand for &quot;dst = texture(sampler, uv);&quot; instead of using FFP_SampleTexture" alt="" coords="485,173,748,200"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,85,169,112"/>
+</map>

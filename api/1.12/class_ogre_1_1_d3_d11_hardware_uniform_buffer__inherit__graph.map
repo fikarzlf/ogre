@@ -1,0 +1,6 @@
+<map id="Ogre::D3D11HardwareUniformBuffer" name="Ogre::D3D11HardwareUniformBuffer">
+<area shape="rect" id="node1" title="Specialisation of HardwareBuffer for D3D11." alt="" coords="5,229,227,271"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_hardware_uniform_buffer.html" title="Specialisation of HardwareBuffer for a uniform buffer." alt="" coords="8,155,224,181"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_hardware_buffer.html" title="Abstract class defining common features of hardware buffers." alt="" coords="35,80,197,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="69,5,163,32"/>
+</map>
